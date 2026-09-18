@@ -2,7 +2,7 @@
 
 - [x] 当前状态：分析完成，v2图已重画，记录于2026-09-18
 - [ ] 0. 怎么用这份归档
-  - [ ] 下一步：打开v2全景图 https://www.processon.com/view/link/6aacec4f9e63607e80fd0093
+  - [ ] 下一步：打开v2全景图 https://www.processon.com/view/link/6aacf94c926a46649d0bc0cc
   - [ ] 查找路径：优越点→二1；优化点→二2；场景→一2
   - [ ] 时间预算：约10分钟（A类纯Markdown学习计划）
 - [ ] 一、项目回顾
@@ -50,6 +50,6 @@
     - [ ] 优化点9：cheat sheet静态PDF难版本化，建议用Markdown/脚本生成PDF纳入CI与PR review
     - [ ] 优化点10：高度依赖原作者（bus factor），建议明确维护者团队与新主题准入标准
 - [ ] 三、附
-  - [ ] ProcessOn v2：https://www.processon.com/view/link/6aacec4f9e63607e80fd0093
+  - [ ] ProcessOn v2：https://www.processon.com/view/link/6aacf94c926a46649d0bc0cc
   - [ ] 幕布：doc_id=7S9hNlXgCrc
   - [ ] 下一步（2分钟动作）：打开v2图，在主题树里圈出"你最近一次面试/工作中实际用到过"的节点，看覆盖率是否低于75%

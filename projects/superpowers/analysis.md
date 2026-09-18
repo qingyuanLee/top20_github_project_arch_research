@@ -1,7 +1,7 @@
 # superpowers 架构研究 归档（i-have-adhd 风格）
 - [x] 当前状态：分析完成，v2图已重画，记录于2026-09-18
 - [ ] 0. 怎么用这份归档
-  - [ ] 下一步：打开v2全景图 https://www.processon.com/view/link/6aacebbd7783ce2a62b9fc5b
+  - [ ] 下一步：打开v2全景图 https://www.processon.com/view/link/6aacf923c6646636dfd327c2
   - [ ] 查找路径：优越点→二1；优化点→二2；场景→一2
   - [ ] 时间预算：约8分钟
 - [ ] 一、项目回顾
@@ -53,6 +53,6 @@
       - [ ] 优化9：缺新手"5分钟最小可用示例"walkthrough，README从13种安装命令开始信息量大
       - [ ] 优化10：AGENTS.md/CLAUDE.md/GEMINI.md多入口文件存在漂移风险，应单一源+发布时生成
 - [ ] 三、附
-  - [ ] ProcessOn v2：https://www.processon.com/view/link/6aacebbd7783ce2a62b9fc5b
+  - [ ] ProcessOn v2：https://www.processon.com/view/link/6aacf923c6646636dfd327c2
   - [ ] 幕布：doc_id=63v4VRyXNbc
   - [ ] 下一步（2分钟动作）：在你常用的编码Agent里跑一次brainstorming，体验HARD-GATE阻断实现的感觉

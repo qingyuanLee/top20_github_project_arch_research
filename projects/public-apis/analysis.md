@@ -2,7 +2,7 @@
 
 - [x] 当前状态：分析完成，v2 全景图已重画，记录于 2026-09-18
 - [ ] 0. 怎么用这份归档
-  - [ ] 下一步：打开 v2 全景图 https://www.processon.com/view/link/6aacebd8c0bae4107ed353c3
+  - [ ] 下一步：打开 v2 全景图 https://www.processon.com/view/link/6aacf8e8c6646636dfd32720
   - [ ] 查找路径：优越点→二1；优化点→二2；场景→一2
   - [ ] 时间预算：读完全文约 8 分钟
 - [ ] 一、项目回顾
@@ -72,6 +72,6 @@
       - [ ] 优化点10：缺乏非英语社区版本
         - [ ] 仅英文 README；建议提供中/日/西语镜像索引（引用而非整表翻译）
 - [ ] 三、附
-  - [ ] ProcessOn v2 全景图：https://www.processon.com/view/link/6aacebd8c0bae4107ed353c3
+  - [ ] ProcessOn v2 全景图：https://www.processon.com/view/link/6aacf8e8c6646636dfd32720
   - [ ] 幕布文档：doc_id=3Zp8TWXH3Hc（原地替换被工具拒绝，同文件夹自动重建）
   - [ ] 下一步（2 分钟）：点开 v2 图，对照"定位层→50 分类表→六列 schema→CI 治理"看一遍

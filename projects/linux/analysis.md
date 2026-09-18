@@ -1,7 +1,7 @@
 # linux 架构研究 归档（i-have-adhd 风格）
 - [x] 当前状态：分析完成，v2 图已重画，记录于 2026-09-18
 - [ ] 0. 怎么用这份归档（下一步：先打开 v2 全景图，约 15 分钟读完）
-  - [ ] 下一步：打开 v2 全景图 https://www.processon.com/view/link/6aacebc1926a46649d0ba098
+  - [ ] 下一步：打开 v2 全景图 https://www.processon.com/view/link/6aacf94b7783ce2a62ba1b8b
   - [ ] 查找路径：子系统分层看「一·3」与「二·1 优越点 3」；优化点看「二·2」；场景问题看「一·2」
   - [ ] 时间预算：扫目录 1 分钟 + 项目回顾 5 分钟 + 知识沉淀 8 分钟 + 收尾 1 分钟 ≈ 15 分钟
 - [ ] 一、项目回顾（TL;DR：宏内核 + 可模块化体系，靠顶层目录把 kernel/mm/fs/net/drivers 切成职责清晰、各自维护的子系统层）
@@ -52,6 +52,6 @@
     - [ ] 优化点 9：安全加固的默认化——在默认/发行版配置中纳入更多 CFI/hardening
     - [ ] 优化点 10：AI 编码助手的架构索引——为子系统提供架构地图/AGENTS.md，降低 AI 生成 patch 的理解成本
 - [ ] 三、附
-  - [ ] ProcessOn v2 全景图：https://www.processon.com/view/link/6aacebc1926a46649d0ba098
+  - [ ] ProcessOn v2 全景图：https://www.processon.com/view/link/6aacf94b7783ce2a62ba1b8b
   - [ ] 幕布文档：doc_id=17MNJwrTQHc（linux — 架构研究；原 5YP3QhSFxrc 已原地重建为新 id）
   - [ ] 下一步（2 分钟动作）：打开 v2 图，只盯「arch 层 → 核心子系统层（kernel/mm/fs/net）→ drivers 层」这条三层竖切，对照本归档一·3 与二·1 优越点 3 确认分层边界是否一致

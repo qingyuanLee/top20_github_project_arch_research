@@ -2,7 +2,7 @@
 
 - [x] 当前状态：分析完成，v2图已重画，记录于2026-09-18
 - [ ] 0. 怎么用这份归档
-  - [ ] 下一步：打开v2全景图 https://www.processon.com/view/link/6aacebe4c66afe02ff762084
+  - [ ] 下一步：打开v2全景图 https://www.processon.com/view/link/6aacf8ff926a46649d0bc028
   - [ ] 查找路径：优越点→二1；优化点→二2；场景→一2
   - [ ] 时间预算：约10分钟（A类资源聚合，无代码）
 - [ ] 一、项目回顾
@@ -50,6 +50,6 @@
     - [ ] 优化点9：关键结论依赖外链易被源站删除，建议核心结论用本仓库内容固化、外链作延伸
     - [ ] 优化点10：主要靠一人/核心组review，建议明确维护者轮换、季度更新节奏与过时内容归档机制
 - [ ] 三、附
-  - [ ] ProcessOn v2：https://www.processon.com/view/link/6aacebe4c66afe02ff762084
+  - [ ] ProcessOn v2：https://www.processon.com/view/link/6aacf8ff926a46649d0bc028
   - [ ] 幕布：doc_id=2QW98aPUeXc
   - [ ] 下一步（2分钟动作）：打开v2图，对照主题树找一个你最近在做的架构决策，确认它落在"网络层/应用层/数据层"哪一层

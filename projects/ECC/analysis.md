@@ -1,7 +1,7 @@
 # ECC 架构研究 归档（i-have-adhd 风格）
 - [x] 当前状态：分析完成，v2 图已重画，记录于 2026-09-18
 - [ ] 0. 怎么用这份归档（下一步：先打开 v2 全景图，约 12 分钟读完）
-  - [ ] 下一步：打开 v2 全景图 https://www.processon.com/view/link/6aaceb82926a46649d0b9ffc
+  - [ ] 下一步：打开 v2 全景图 https://www.processon.com/view/link/6aacf8fbcb92f406f7ee23d2
   - [ ] 查找路径：优越点看「二·1」；优化点看「二·2」；场景问题看「一·2」
   - [ ] 时间预算：扫目录 1 分钟 + 项目回顾 4 分钟 + 知识沉淀 6 分钟 + 收尾 1 分钟 ≈ 12 分钟
 - [ ] 一、项目回顾（TL;DR：一套把 AI 编码工作流固化下来的「agent harness 操作系统」配置包）
@@ -52,6 +52,6 @@
     - [ ] 优化点 9：私有仓 Pro 与开源版边界说明——给清晰的功能对照表与数据隔离说明
     - [ ] 优化点 10：对 AI 工具版本快速演进的兼容弹性——把 harness 适配层抽象为版本插件，做 breaking change 垫片
 - [ ] 三、附
-  - [ ] ProcessOn v2 全景图：https://www.processon.com/view/link/6aaceb82926a46649d0b9ffc
+  - [ ] ProcessOn v2 全景图：https://www.processon.com/view/link/6aacf8fbcb92f406f7ee23d2
   - [ ] 幕布文档：doc_id=1lcxHUSeyHc（ECC — 架构研究；原 2bBSs7Y86bc 已原地重建为新 id）
   - [ ] 下一步（2 分钟动作）：打开 v2 图，只盯「多 harness 适配层 → 68/292 能力层」这一条主线，确认与本归档二·1 优越点 1/2 是否一致

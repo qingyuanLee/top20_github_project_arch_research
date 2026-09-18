@@ -2,7 +2,7 @@
 
 - [x] 当前状态：分析完成，v2 全景图已重画，记录于 2026-09-18
 - [ ] 0. 怎么用这份归档
-  - [ ] 下一步：打开 v2 全景图 https://www.processon.com/view/link/6aacec0e6a54b67d4fa67d1f
+  - [ ] 下一步：打开 v2 全景图 https://www.processon.com/view/link/6aacf91cc6646636dfd327b9
   - [ ] 查找路径：优越点→二1；优化点→二2；场景→一2
   - [ ] 时间预算：读完全文约 10 分钟
 - [ ] 一、项目回顾
@@ -73,6 +73,6 @@
       - [ ] 优化点10：curriculum 题目 schema 演进无版本化
         - [ ] v6→v9 无迁移工具；建议加 version 字段 + 批量升级脚本
 - [ ] 三、附
-  - [ ] ProcessOn v2 全景图：https://www.processon.com/view/link/6aacec0e6a54b67d4fa67d1f
+  - [ ] ProcessOn v2 全景图：https://www.processon.com/view/link/6aacf91cc6646636dfd327b9
   - [ ] 幕布文档：doc_id=yJBub8OtHc（原地替换被工具拒绝，同文件夹自动重建）
   - [ ] 下一步（2 分钟）：点开 v2 图，对照"平台定位→六大模块→技术组件→外部依赖"看一遍

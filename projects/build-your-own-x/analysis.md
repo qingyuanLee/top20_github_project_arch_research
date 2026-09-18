@@ -2,7 +2,7 @@
 
 - [x] 当前状态：分析完成，v2 全景图已重画，记录于 2026-09-18
 - [ ] 0. 怎么用这份归档
-  - [ ] 下一步：打开 v2 全景图 https://www.processon.com/view/link/6aaceb6a83f77758981eff5d
+  - [ ] 下一步：打开 v2 全景图 https://www.processon.com/view/link/6aacf896aa338a4e8a92cdcb
   - [ ] 查找路径：优越点→二1；优化点→二2；场景→一2
   - [ ] 时间预算：读完全文约 8 分钟
 - [ ] 一、项目回顾
@@ -72,6 +72,6 @@
       - [ ] 优化点10：与商业产品边界可更清晰
         - [ ] 未区分社区教程与 CodeCrafters 付费挑战；建议对关联内容注明，保中立
 - [ ] 三、附
-  - [ ] ProcessOn v2 全景图：https://www.processon.com/view/link/6aaceb6a83f77758981eff5d
+  - [ ] ProcessOn v2 全景图：https://www.processon.com/view/link/6aacf896aa338a4e8a92cdcb
   - [ ] 幕布文档：doc_id=n6l_jfcFHc（原地替换被工具拒绝，同文件夹自动重建）
   - [ ] 下一步（2 分钟）：点开 v2 图，对照"定位层→29 分类层→组件层"看一遍分层

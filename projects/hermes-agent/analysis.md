@@ -1,7 +1,7 @@
 # hermes-agent 架构研究 归档（i-have-adhd 风格）
 - [x] 当前状态：分析完成，v2 图已重画，记录于 2026-09-18
 - [ ] 0. 怎么用这份归档（下一步：先打开 v2 全景图，约 14 分钟读完）
-  - [ ] 下一步：打开 v2 全景图 https://www.processon.com/view/link/6aacebdfc0bae4107ed353c9
+  - [ ] 下一步：打开 v2 全景图 https://www.processon.com/view/link/6aacf97167be235e108db930
   - [ ] 查找路径：学习闭环看「一·3」与「二·1 优越点 1」；优化点看「二·2」；场景问题看「一·2」
   - [ ] 时间预算：扫目录 1 分钟 + 项目回顾 5 分钟 + 知识沉淀 7 分钟 + 收尾 1 分钟 ≈ 14 分钟
 - [ ] 一、项目回顾（TL;DR：自带闭环学习的云端 AI agent，单一网关接多 IM，模型可插拔，原生 cron 调度，产品同时是训练数据采集器）
@@ -52,6 +52,6 @@
     - [ ] 优化点 9：Termux/移动后端的完整支持——把 Termux 适配纳入正式测试矩阵
     - [ ] 优化点 10：桌面端与 CLI 配置同步——统一配置源与多端同步，TUI/桌面/手机切换不丢配置
 - [ ] 三、附
-  - [ ] ProcessOn v2 全景图：https://www.processon.com/view/link/6aacebdfc0bae4107ed353c9
+  - [ ] ProcessOn v2 全景图：https://www.processon.com/view/link/6aacf97167be235e108db930
   - [ ] 幕布文档：doc_id=6YV3PcTVWHc（hermes-agent — 架构研究；原 vjeAAyzsXc 已原地重建为新 id）
   - [ ] 下一步（2 分钟动作）：打开 v2 图，只盯「gateway → agent 运行时(多 provider) → 学习闭环(FTS5/Honcho/自创技能)」这条主链，对照本归档一·3 与二·1 优越点 1/2 确认是否一致

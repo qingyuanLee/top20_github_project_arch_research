@@ -1,7 +1,7 @@
 # skills 架构研究 归档（i-have-adhd 风格）
 - [x] 当前状态：分析完成，v2图已重画，记录于2026-09-18
 - [ ] 0. 怎么用这份归档
-  - [ ] 下一步：打开v2全景图 https://www.processon.com/view/link/6aacec516a54b67d4fa67dc1
+  - [ ] 下一步：打开v2全景图 https://www.processon.com/view/link/6aacf9fbc6646636dfd329a3
   - [ ] 查找路径：优越点→二1；优化点→二2；场景→一2
   - [ ] 时间预算：约8分钟
 - [ ] 一、项目回顾
@@ -53,6 +53,6 @@
       - [ ] 优化9：.agents/治理文档与技能本体未强校验，应写linter校验所有SKILL.md是否符合writing-docs规范
       - [ ] 优化10：与外部issue tracker集成偏手工配置，应为GitHub/Linear提供一键模板（标签集/阻塞边字段映射）
 - [ ] 三、附
-  - [ ] ProcessOn v2：https://www.processon.com/view/link/6aacec516a54b67d4fa67dc1
+  - [ ] ProcessOn v2：https://www.processon.com/view/link/6aacf9fbc6646636dfd329a3
   - [ ] 幕布：doc_id=5wn_5EPcyXc
   - [ ] 下一步（2分钟动作）：在你正在做的项目里跑一次/grill-me，体验"被拷问需求"的感觉

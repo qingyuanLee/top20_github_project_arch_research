@@ -2,7 +2,7 @@
 
 - [x] 当前状态：分析完成，v2 全景图已重画，记录于 2026-09-18
 - [ ] 0. 怎么用这份归档
-  - [ ] 下一步：打开 v2 全景图 https://www.processon.com/view/link/6aaceba56a54b67d4fa67c34
+  - [ ] 下一步：打开 v2 全景图 https://www.processon.com/view/link/6aacf8c77783ce2a62ba1a70
   - [ ] 查找路径：优越点→二1；优化点→二2；场景→一2
   - [ ] 时间预算：读完全文约 8 分钟
 - [ ] 一、项目回顾
@@ -72,6 +72,6 @@
       - [ ] 优化点10：缺少可程序化消费的结构化数据
         - [ ] 内容全在散文 readme；建议另维护机器可读 JSON/YAML 清单
 - [ ] 三、附
-  - [ ] ProcessOn v2 全景图：https://www.processon.com/view/link/6aaceba56a54b67d4fa67c34
+  - [ ] ProcessOn v2 全景图：https://www.processon.com/view/link/6aacf8c77783ce2a62ba1a70
   - [ ] 幕布文档：doc_id=2z3PtJY2eHc（原地替换被工具拒绝，同文件夹自动重建）
   - [ ] 下一步（2 分钟）：点开 v2 图，看"元清单定位→分类组→词条 schema→CI 治理"四层连线

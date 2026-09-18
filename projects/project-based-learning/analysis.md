@@ -1,7 +1,7 @@
 # project-based-learning 架构研究 归档（i-have-adhd 风格）
 - [x] 当前状态：分析完成，v2图已重画，记录于2026-09-18
 - [ ] 0. 怎么用这份归档
-  - [ ] 下一步：打开v2全景图 https://www.processon.com/view/link/6aacebf4c0bae4107ed353f6
+  - [ ] 下一步：打开v2全景图 https://www.processon.com/view/link/6aacf9697783ce2a62ba1bcd
   - [ ] 查找路径：优越点→二1；优化点→二2；场景→一2
   - [ ] 时间预算：约8分钟
 - [ ] 一、项目回顾
@@ -52,6 +52,6 @@
       - [ ] 优化9：新语言/新框架覆盖不均，Rust节少，GenAI/LLM应用类新项目教程几乎没有
       - [ ] 优化10：贡献者与维护者协作缺阶梯，应按PR合并数设层级分担review压力
 - [ ] 三、附
-  - [ ] ProcessOn v2：https://www.processon.com/view/link/6aacebf4c0bae4107ed353f6
+  - [ ] ProcessOn v2：https://www.processon.com/view/link/6aacf9697783ce2a62ba1bcd
   - [ ] 幕布：doc_id=R3TuF2nnXc
   - [ ] 下一步（2分钟动作）：打开README找到你正在学的语言节，挑一个"Build..."标题的教程收藏

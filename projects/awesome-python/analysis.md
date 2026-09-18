@@ -2,7 +2,7 @@
 
 - [x] 当前状态：分析完成，v2图已重画，记录于2026-09-18
 - [ ] 0. 怎么用这份归档
-  - [ ] 下一步：打开v2全景图 https://www.processon.com/view/link/6aacec89c8280d5a5b1d36f0
+  - [ ] 下一步：打开v2全景图 https://www.processon.com/view/link/6aacf982926a46649d0bc132
   - [ ] 查找路径：优越点→二1；优化点→二2；场景→一2
   - [ ] 时间预算：约10分钟（A类shortlist，工程化治理规则密集）
 - [ ] 一、项目回顾
@@ -50,6 +50,6 @@
     - [ ] 优化点9：挑战者上升路径不透明，建议定义定期复审节奏把成熟挑战者升级为obvious
     - [ ] 优化点10：CONTRIBUTING规则详尽偏长，建议提供PR自查checklist模板降低无效PR比例
 - [ ] 三、附
-  - [ ] ProcessOn v2：https://www.processon.com/view/link/6aacec89c8280d5a5b1d36f0
+  - [ ] ProcessOn v2：https://www.processon.com/view/link/6aacf982926a46649d0bc132
   - [ ] 幕布：doc_id=6s8Sf2VDEbc
   - [ ] 下一步（2分钟动作）：打开v2图，选一个你常用的use case（如Web框架/ORM），对照"3首选+2挑战者"看你的选择是否在榜

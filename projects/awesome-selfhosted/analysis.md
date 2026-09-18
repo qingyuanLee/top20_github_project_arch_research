@@ -1,7 +1,7 @@
 # awesome-selfhosted 架构研究 归档（i-have-adhd 风格）
 - [x] 当前状态：分析完成，v2图已重画，记录于2026-09-18
 - [ ] 0. 怎么用这份归档
-  - [ ] 下一步：打开v2全景图 https://www.processon.com/view/link/6aaceb8a926a46649d0ba011
+  - [ ] 下一步：打开v2全景图 https://www.processon.com/view/link/6aacf8f56a54b67d4fa69a9b
   - [ ] 查找路径：优越点→二1；优化点→二2；场景→一2
   - [ ] 时间预算：约8分钟
 - [ ] 一、项目回顾
@@ -52,6 +52,6 @@
       - [ ] 优化9：贡献者手写YAML门槛高，缺hecat add脚手架自动拉取元数据生成草稿
       - [ ] 优化10：与面板类项目（YunoHost/Tipi）衔接未做"选面板→看它能装什么"推荐链
 - [ ] 三、附
-  - [ ] ProcessOn v2：https://www.processon.com/view/link/6aaceb8a926a46649d0ba011
+  - [ ] ProcessOn v2：https://www.processon.com/view/link/6aacf8f56a54b67d4fa69a9b
   - [ ] 幕布：doc_id=18gUJrxuXc
   - [ ] 下一步（2分钟动作）：打开v2图，对照README找一个你想替代的SaaS，在对应分类下挑2个候选

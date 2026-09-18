@@ -2,7 +2,7 @@
 
 - [x] 当前状态：分析完成，v2图已重画，记录于2026-09-18
 - [ ] 0. 怎么用这份归档
-  - [ ] 下一步：打开v2全景图 https://www.processon.com/view/link/6aaceba9c8280d5a5b1d34ba
+  - [ ] 下一步：打开v2全景图 https://www.processon.com/view/link/6aacf8d867be235e108db7f1
   - [ ] 查找路径：优越点→二1；优化点→二2；场景→一2
   - [ ] 时间预算：约15分钟（B类代码架构，模块多）
 - [ ] 一、项目回顾
@@ -50,6 +50,6 @@
     - [ ] 优化点9：性能基线可观测闭环不足，建议把perf budget与生产OTel/Prometheus指标对齐
     - [ ] 优化点10：ClawHub插件生态缺质量门槛，建议为第三方插件建签名/权限声明/沙箱分级/恶意行为自动扫描
 - [ ] 三、附
-  - [ ] ProcessOn v2：https://www.processon.com/view/link/6aaceba9c8280d5a5b1d34ba
+  - [ ] ProcessOn v2：https://www.processon.com/view/link/6aacf8d867be235e108db7f1
   - [ ] 幕布：doc_id=t2fGspBMbc
   - [ ] 下一步（2分钟动作）：打开v2图，先看"Gateway控制平面→Channels→Agent→工具执行"这条主数据流是否和你预期一致，记一个差异点即可

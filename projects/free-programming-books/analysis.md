@@ -2,7 +2,7 @@
 
 - [x] 当前状态：分析完成，v2 全景图已重画，记录于 2026-09-18
 - [ ] 0. 怎么用这份归档
-  - [ ] 下一步：打开 v2 全景图 https://www.processon.com/view/link/6aacec36c6646636dfd30a2c
+  - [ ] 下一步：打开 v2 全景图 https://www.processon.com/view/link/6aacf939c0bae4107ed3727e
   - [ ] 查找路径：优越点→二1；优化点→二2；场景→一2
   - [ ] 时间预算：读完全文约 9 分钟
 - [ ] 一、项目回顾
@@ -73,6 +73,6 @@
       - [ ] 优化点10：docs/ 多语言翻译进度不可视
         - [ ] 缺翻译覆盖率仪表盘；建议加翻译进度面板供贡献者认领缺口
 - [ ] 三、附
-  - [ ] ProcessOn v2 全景图：https://www.processon.com/view/link/6aacec36c6646636dfd30a2c
+  - [ ] ProcessOn v2 全景图：https://www.processon.com/view/link/6aacf939c0bae4107ed3727e
   - [ ] 幕布文档：doc_id=78ScQ57V2Hc（原地替换被工具拒绝，同文件夹自动重建）
   - [ ] 下一步（2 分钟）：点开 v2 图，对照"非营利定位→6 类资源→7 CI 治理→双站点"看一遍

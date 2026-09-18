@@ -1,7 +1,7 @@
 # react 架构研究 归档（i-have-adhd 风格）
 - [x] 当前状态：分析完成，v2 图已重画，记录于 2026-09-18
 - [ ] 0. 怎么用这份归档（下一步：先打开 v2 全景图，约 14 分钟读完）
-  - [ ] 下一步：打开 v2 全景图 https://www.processon.com/view/link/6aaceba27783ce2a62b9fc1a
+  - [ ] 下一步：打开 v2 全景图 https://www.processon.com/view/link/6aacf92283f77758981f1e96
   - [ ] 查找路径：Fiber 架构看「一·3」与「二·1 优越点 1」；优化点看「二·2」；场景问题看「一·2」
   - [ ] 时间预算：扫目录 1 分钟 + 项目回顾 5 分钟 + 知识沉淀 7 分钟 + 收尾 1 分钟 ≈ 14 分钟
 - [ ] 一、项目回顾（TL;DR：声明式组件 UI 库，核心是可中断的 Fiber 渲染工作循环 + 可插拔 host config）
@@ -52,6 +52,6 @@
     - [ ] 优化点 9：服务端组件在多 bundler 间一致性——抽象 bundler 适配层，减少重复实现
     - [ ] 优化点 10：对 AI 编码助手的适配——系统化提供架构索引与贡献者 AGENTS.md，降低 AI 生成 PR 的理解成本
 - [ ] 三、附
-  - [ ] ProcessOn v2 全景图：https://www.processon.com/view/link/6aaceba27783ce2a62b9fc1a
+  - [ ] ProcessOn v2 全景图：https://www.processon.com/view/link/6aacf92283f77758981f1e96
   - [ ] 幕布文档：doc_id=3DeFRRdvvHc（react — 架构研究；原 5L8m8Y8q2Xc 已原地重建为新 id）
   - [ ] 下一步（2 分钟动作）：打开 v2 图，只盯「react-reconciler(Fiber) + scheduler → host config」这条主链，对照本归档一·3 与二·1 优越点 1/2 确认 render 可中断、commit 不可中断的标注是否一致

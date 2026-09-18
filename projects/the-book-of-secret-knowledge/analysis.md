@@ -1,7 +1,7 @@
 # the-book-of-secret-knowledge 架构研究 归档（i-have-adhd 风格）
 - [x] 当前状态：分析完成，v2 图已重画，记录于 2026-09-18
 - [ ] 0. 怎么用这份归档（下一步：先打开 v2 全景图，约 12 分钟读完）
-  - [ ] 下一步：打开 v2 全景图 https://www.processon.com/view/link/6aacebfe6a29601cdfbf21e0
+  - [ ] 下一步：打开 v2 全景图 https://www.processon.com/view/link/6aacf9969e63607e80fd1dea
   - [ ] 查找路径：内容分类看「一·3」；治理机制看「一·4」与「二·1」；优化点看「二·2」
   - [ ] 时间预算：扫目录 1 分钟 + 项目回顾 4 分钟 + 知识沉淀 6 分钟 + 收尾 1 分钟 ≈ 12 分钟
 - [ ] 一、项目回顾（TL;DR：DevOps/安全向的技术工具箱秘籍合集，全部内容压在单一 README，靠二维 MECE 分类 + 极简条目 schema + 反熵筛选治理）
@@ -52,6 +52,6 @@
     - [ ] 优化点 9：贡献者反馈渠道分散——建 FAQ 页收录高频问题，减少重复答疑
     - [ ] 优化点 10：静态资源与内容分离度——用 GitHub Pages 托管带全文搜索的站点版，提升移动端体验
 - [ ] 三、附
-  - [ ] ProcessOn v2 全景图：https://www.processon.com/view/link/6aacebfe6a29601cdfbf21e0
+  - [ ] ProcessOn v2 全景图：https://www.processon.com/view/link/6aacf9969e63607e80fd1dea
   - [ ] 幕布文档：doc_id=225hbjiRfHc（the-book-of-secret-knowledge — 架构研究；原 4H0cmCADerc 已原地重建为新 id）
   - [ ] 下一步（2 分钟动作）：打开 v2 图，只盯「15 章二维分类 → 条目 schema(名称+URL+一句话) → 三原则/DCO/死链自检」这条主链，对照本归档一·3/一·4 确认是否一致

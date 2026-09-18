@@ -1,7 +1,7 @@
 # 996.ICU 架构研究 归档（i-have-adhd 风格）
 - [x] 当前状态：分析完成，v2图已重画，记录于2026-09-18
 - [ ] 0. 怎么用这份归档
-  - [ ] 下一步：打开v2全景图 https://www.processon.com/view/link/6aacec2267be235e108d9b15
+  - [ ] 下一步：打开v2全景图 https://www.processon.com/view/link/6aacf9bf6a29601cdfbf4255
   - [ ] 查找路径：优越点→二1；优化点→二2；场景→一2
   - [ ] 时间预算：约8分钟
   - [ ] 口径说明：本项目为社会运动类仓库，侧重传播机制/社区协作/GitHub平台杠杆，不分析代码架构
@@ -53,6 +53,6 @@
       - [ ] 优化9："Press F to pay respect"易被符号化消费，README应加"除了点star你还能做什么"行动清单
       - [ ] 优化10：跨平台延展性弱过度依赖GitHub，应镜像到多平台/去中心化托管（IPFS/区块链）降单平台风险
 - [ ] 三、附
-  - [ ] ProcessOn v2：https://www.processon.com/view/link/6aacec2267be235e108d9b15
+  - [ ] ProcessOn v2：https://www.processon.com/view/link/6aacf9bf6a29601cdfbf4255
   - [ ] 幕布：doc_id=3UuSWXRfKXc
   - [ ] 下一步（2分钟动作）：打开blacklist目录，挑一条你能补充证据或纠错的公司，准备一条issue

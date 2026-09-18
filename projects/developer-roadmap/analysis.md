@@ -2,7 +2,7 @@
 
 - [x] 当前状态：分析完成，v2图已重画，记录于2026-09-18
 - [ ] 0. 怎么用这份归档
-  - [ ] 下一步：打开v2全景图 https://www.processon.com/view/link/6aacec17926a46649d0ba167
+  - [ ] 下一步：打开v2全景图 https://www.processon.com/view/link/6aacf9279e63607e80fd1d13
   - [ ] 查找路径：优越点→二1；优化点→二2；场景→一2
   - [ ] 时间预算：约12分钟（B类内容工程，有真实脚本与CI）
 - [ ] 一、项目回顾
@@ -50,6 +50,6 @@
     - [ ] 优化点9：孤儿清理规则可解释性不足，建议删除前生成diff报告开PR人工确认而非直接删
     - [ ] 优化点10：close-feedback-pr自动关闭缺引导，建议附"请改用issue/编辑器"模板与理由
 - [ ] 三、附
-  - [ ] ProcessOn v2：https://www.processon.com/view/link/6aacec17926a46649d0ba167
+  - [ ] ProcessOn v2：https://www.processon.com/view/link/6aacf9279e63607e80fd1d13
   - [ ] 幕布：doc_id=6E7FcfBOIHc
   - [ ] 下一步（2分钟动作）：打开v2图，沿"Markdown→sync-repo-to-database→数据库→CDN→网站"主数据流走一遍，标一个你最担心会断的环节
