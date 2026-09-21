@@ -1,0 +1,68 @@
+# 2026-09-21 GitHub 日榜增长架构研究报告 归档（i-have-adhd 风格）
+
+- [ ] 当前状态：13/13 项目分析完成，ProcessOn 全景图+幕布大纲已交付；记录于 2026-09-21
+- [ ] 0. 怎么用这份归档
+  - [ ] 下一步：点开 security-audit-skill 的 ProcessOn 全景图，约 1 分钟
+  - [ ] 查找路径：项目详情→下方编号节点；全景图→每个项目首行链接
+  - [ ] 时间预算：读完全文约 3 分钟；单项目约 15 秒
+- [ ] 一、数据说明
+  - [ ] 1. 一句话结论：当日 GitHub Trending daily 仅有 13 个项目（非完整 20）
+  - [ ] 2. 快照来源：GitHub Trending 页面 since=daily，抓取时间 2026-09-21 约 10:00 CST
+  - [ ] 3. 为何只有 13 个：周一 UTC 午夜刚重置（北京时间 8:00），当日 star 增长积累不足 25 个
+  - [ ] 4. 验证方式：13 个项目 stars today 已从 Trending 页面提取并经 GitHub API 核对
+  - [ ] 5. 原始数据：data/top20_daily_raw_2026-09-21.json
+- [ ] 二、日榜 13 项目总览（按 stars today 降序）
+  - [ ] 1. 一句话结论：当日榜单被 AI Agent 工具链主导（13 个中约 10 个直接相关）
+  - [ ] 2. 排名 1-5（当日增长 700+）
+    - [ ] #1 cloudflare/security-audit-skill — 2,428 today / 18,300 total — JavaScript — 安全审计 agent skill
+    - [ ] #2 trycua/cua — 1,018 today / 25,319 total — HTML — 开源 computer-use 2.0
+    - [ ] #3 affaan-m/ECC ⚠️ — 826 today / 264,009 total — JavaScript — Agent harness 优化
+    - [ ] #4 Open-Dev-Society/OpenStock — 755 today / 17,041 total — TypeScript — 开源金融市场
+    - [ ] #5 addyosmani/agent-skills — 736 today / 97,835 total — JavaScript — AI coding 技能集
+  - [ ] 3. 排名 6-9（当日增长 290-465）
+    - [ ] #6 higgsfield-ai/higgsfield — 465 today / 5,488 total — Jupyter — GPU 编排框架
+    - [ ] #7 anthropics/claude-code — 419 today / 147,266 total — TypeScript — 终端内 coding agent
+    - [ ] #8 coder/coder — 379 today / 16,160 total — Go — 开发者环境管理
+    - [ ] #9 vercel-labs/json-render — 291 today / 17,557 total — TypeScript — Generative UI 框架
+  - [ ] 4. 排名 10-13（当日增长 57-260）
+    - [ ] #10 anthropics/financial-services — 260 today / 35,495 total — Python — 金融行业示例
+    - [ ] #11 mihail911/modern-software-dev-assignments — 172 today / 4,643 total — Python — 斯坦福课程作业
+    - [ ] #12 BuilderIO/agent-native — 98 today / 5,409 total — TypeScript — Agentic app 框架
+    - [ ] #13 paperless-ngx/paperless-ngx — 57 today / 45,682 total — Python — 文档管理系统
+- [ ] 三、ProcessOn 全景图链接（13 张 v3）
+  - [ ] 1. security-audit-skill — https://www.processon.com/view/link/6ab0d1b7c6646636dfd87099
+  - [ ] 2. cua — https://www.processon.com/view/link/6ab0d1bd926a46649d110386
+  - [ ] 3. ECC — https://www.processon.com/view/link/6ab0d1c36a54b67d4fabe497
+  - [ ] 4. OpenStock — https://www.processon.com/view/link/6ab0d1c96a29601cdfc4911f
+  - [ ] 5. agent-skills — https://www.processon.com/view/link/6ab0d1cf7783ce2a62bf6d30
+  - [ ] 6. higgsfield — https://www.processon.com/view/link/6ab0d0b96a29601cdfc48e9f
+  - [ ] 7. claude-code — https://www.processon.com/view/link/6ab0d0bf926a46649d11013e
+  - [ ] 8. coder — https://www.processon.com/view/link/6ab0d0c5c66afe02ff7b84df
+  - [ ] 9. json-render — https://www.processon.com/view/link/6ab0d0cbcb92f406f7f3654b
+  - [ ] 10. financial-services — https://www.processon.com/view/link/6ab0d04d6a29601cdfc48da4
+  - [ ] 11. modern-software-dev-assignments — https://www.processon.com/view/link/6ab0d1126a29601cdfc48f88
+  - [ ] 12. agent-native — https://www.processon.com/view/link/6ab0d1be6a29601cdfc490f3
+  - [ ] 13. paperless-ngx — https://www.processon.com/view/link/6ab0d25dc8280d5a5b22a4ce
+- [ ] 四、幕布大纲文档（13 篇）
+  - [ ] 1. security-audit-skill — 7qgLzq234Oc
+  - [ ] 2. cua — 35JvNIaMdOc
+  - [ ] 3. ECC — 5H4DPRayx2c
+  - [ ] 4. OpenStock — 7BjnKoOEl2c
+  - [ ] 5. agent-skills — 6QFPgi-EJ2c
+  - [ ] 6. higgsfield — 4J8xa9Qtnyc
+  - [ ] 7. claude-code — 2df_KtL1wyc
+  - [ ] 8. coder — 48sbDiFdNyc
+  - [ ] 9. json-render — 1U-W3koQmyc
+  - [ ] 10. financial-services — 5RvRuztAb2c
+  - [ ] 11. modern-software-dev-assignments — 7zLcHSWjVOc
+  - [ ] 12. agent-native — 7TnMgEYqtyc
+  - [ ] 13. paperless-ngx — 6kLs2Be1P2c
+- [ ] 五、当日趋势洞察
+  - [ ] 1. AI Agent 工具链霸榜：13 个项目中约 10 个直接服务于 AI Agent 开发/部署/审计
+  - [ ] 2. Claude 生态强势：anthropics 官方占 2 席（claude-code + financial-services），addyosmani/agent-skills 97k stars 持续增长
+  - [ ] 3. 安全审计成新热点：cloudflare/security-audit-skill 单日 2,428 stars 为当日最高
+  - [ ] 4. ⚠️ ECC 仍在榜：264k stars 疑似异常的项目连续两日在 Trending 日报中
+- [ ] 六、附：待办
+  - [ ] 项目详细分析：daily/2026-09-21/ 下 13 篇 analysis.md
+  - [ ] 原始数据：data/top20_daily_raw_2026-09-21.json
+  - [ ] 下一步：点开 #1 security-audit-skill 的 ProcessOn 全景图，约 2 分钟

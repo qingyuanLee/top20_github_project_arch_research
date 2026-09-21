@@ -1,0 +1,152 @@
+{
+    "total_repos":  13,
+    "snapshot_date":  "2026-09-21",
+    "source":  "GitHub Trending daily (since=daily)",
+    "note":  "Daily trending page had only 13 repos at capture time (Monday UTC midnight reset). Full top20 not available.",
+    "repos":  [
+                  {
+                      "url":  "https://github.com/cloudflare/security-audit-skill",
+                      "rank":  1,
+                      "description":  "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+                      "total_stars":  18300,
+                      "stars_today":  2428,
+                      "owner":  "cloudflare",
+                      "name":  "cloudflare/security-audit-skill",
+                      "repo":  "security-audit-skill",
+                      "language":  "JavaScript"
+                  },
+                  {
+                      "url":  "https://github.com/trycua/cua",
+                      "rank":  2,
+                      "description":  "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks",
+                      "total_stars":  25319,
+                      "stars_today":  1018,
+                      "owner":  "trycua",
+                      "name":  "trycua/cua",
+                      "repo":  "cua",
+                      "language":  "HTML"
+                  },
+                  {
+                      "url":  "https://github.com/affaan-m/ECC",
+                      "rank":  3,
+                      "description":  "The agent harness performance optimization system. Skills, instincts, memory, security",
+                      "total_stars":  264009,
+                      "stars_today":  826,
+                      "owner":  "affaan-m",
+                      "name":  "affaan-m/ECC",
+                      "repo":  "ECC",
+                      "language":  "JavaScript"
+                  },
+                  {
+                      "url":  "https://github.com/Open-Dev-Society/OpenStock",
+                      "rank":  4,
+                      "description":  "Open-source alternative to expensive market platforms. Track real-time prices",
+                      "total_stars":  17041,
+                      "stars_today":  755,
+                      "owner":  "Open-Dev-Society",
+                      "name":  "Open-Dev-Society/OpenStock",
+                      "repo":  "OpenStock",
+                      "language":  "TypeScript"
+                  },
+                  {
+                      "url":  "https://github.com/addyosmani/agent-skills",
+                      "rank":  5,
+                      "description":  "Production-grade engineering skills for AI coding agents",
+                      "total_stars":  97835,
+                      "stars_today":  736,
+                      "owner":  "addyosmani",
+                      "name":  "addyosmani/agent-skills",
+                      "repo":  "agent-skills",
+                      "language":  "JavaScript"
+                  },
+                  {
+                      "url":  "https://github.com/higgsfield-ai/higgsfield",
+                      "rank":  6,
+                      "description":  "Fault-tolerant, highly scalable GPU orchestration and ML framework",
+                      "total_stars":  5488,
+                      "stars_today":  465,
+                      "owner":  "higgsfield-ai",
+                      "name":  "higgsfield-ai/higgsfield",
+                      "repo":  "higgsfield",
+                      "language":  "Jupyter Notebook"
+                  },
+                  {
+                      "url":  "https://github.com/anthropics/claude-code",
+                      "rank":  7,
+                      "description":  "Claude Code is an agentic coding tool that lives in your terminal",
+                      "total_stars":  147266,
+                      "stars_today":  419,
+                      "owner":  "anthropics",
+                      "name":  "anthropics/claude-code",
+                      "repo":  "claude-code",
+                      "language":  "TypeScript"
+                  },
+                  {
+                      "url":  "https://github.com/coder/coder",
+                      "rank":  8,
+                      "description":  "Secure environments for developers and their agents",
+                      "total_stars":  16160,
+                      "stars_today":  379,
+                      "owner":  "coder",
+                      "name":  "coder/coder",
+                      "repo":  "coder",
+                      "language":  "Go"
+                  },
+                  {
+                      "url":  "https://github.com/vercel-labs/json-render",
+                      "rank":  9,
+                      "description":  "The Generative UI framework",
+                      "total_stars":  17557,
+                      "stars_today":  291,
+                      "owner":  "vercel-labs",
+                      "name":  "vercel-labs/json-render",
+                      "repo":  "json-render",
+                      "language":  "TypeScript"
+                  },
+                  {
+                      "url":  "https://github.com/anthropics/financial-services",
+                      "rank":  10,
+                      "description":  "Anthropic financial services examples",
+                      "total_stars":  35495,
+                      "stars_today":  260,
+                      "owner":  "anthropics",
+                      "name":  "anthropics/financial-services",
+                      "repo":  "financial-services",
+                      "language":  "Python"
+                  },
+                  {
+                      "url":  "https://github.com/mihail911/modern-software-dev-assignments",
+                      "rank":  11,
+                      "description":  "Assignments for CS146S: The Modern Software Dev (Stanford)",
+                      "total_stars":  4643,
+                      "stars_today":  172,
+                      "owner":  "mihail911",
+                      "name":  "mihail911/modern-software-dev-assignments",
+                      "repo":  "modern-software-dev-assignments",
+                      "language":  "Python"
+                  },
+                  {
+                      "url":  "https://github.com/BuilderIO/agent-native",
+                      "rank":  12,
+                      "description":  "A framework for building agentic apps",
+                      "total_stars":  5409,
+                      "stars_today":  98,
+                      "owner":  "BuilderIO",
+                      "name":  "BuilderIO/agent-native",
+                      "repo":  "agent-native",
+                      "language":  "TypeScript"
+                  },
+                  {
+                      "url":  "https://github.com/paperless-ngx/paperless-ngx",
+                      "rank":  13,
+                      "description":  "A community-supported supercharged document management system",
+                      "total_stars":  45682,
+                      "stars_today":  57,
+                      "owner":  "paperless-ngx",
+                      "name":  "paperless-ngx/paperless-ngx",
+                      "repo":  "paperless-ngx",
+                      "language":  "Python"
+                  }
+              ],
+    "captured_at":  "2026-09-21T10:00:00+08:00"
+}
