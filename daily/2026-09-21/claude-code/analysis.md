@@ -147,7 +147,7 @@ TL;DR：把 Claude 从网页聊天搬进终端，让它读你整个 codebase、�
 
 - 文件夹名称：claude-code
 - 图表标题：anthropics/claude-code 结构性全景图
-- 图表链接：https://www.processon.com/view/link/6ab0d0bf926a46649d11013e
+- 图表链接(v4)：https://www.processon.com/view/link/6ab0e8fcc8280d5a5b22df80
 - 图中应包含：顶层（终端内 agentic coding）；中层（CLI 交互层 / 工具循环 / hooks 安全层 / 插件市场）；底层（Node 18+ TypeScript、Anthropic API、MCP、AWS/GCP 网关、MDM admx/mobileconfig、GitHub Actions 自举）。
 
 ## 6. 幕布文档信息

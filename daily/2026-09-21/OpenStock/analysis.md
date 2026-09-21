@@ -199,8 +199,8 @@ __tests__/         # Vitest 单测 + 集成测
 ## 5. ProcessOn 全景图信息
 
 - 文件夹名称：OpenStock
-- 图表标题：Open-Dev-Society/OpenStock 结构性全景图
-- 图表链接：https://www.processon.com/view/link/6ab0d1c96a29601cdfc4911f
+- 图表标题：Open-Dev-Society/OpenStock 结构性全景图 v4
+- 图表链接：https://www.processon.com/view/link/6ab0e992c66afe02ff7bc334 （v4：11节点/12连线/4分组，techblue，auto_layout）
 - 图中应包含：Next.js App Router 路由组、Server Actions 层、MongoDB 数据模型、Inngest 自动化 workflow、外部 API（Finnhub/TradingView/Adanos）、Better Auth
 
 ## 6. 幕布文档信息

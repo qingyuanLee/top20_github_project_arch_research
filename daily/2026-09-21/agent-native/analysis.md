@@ -238,6 +238,7 @@ agent 看到 UI 的 application state（当前页/选中记录/视图）
 - 文件夹名称：`agent-native`
 - 图表标题：`BuilderIO/agent-native 结构性全景图`
 - 图表链接：https://www.processon.com/view/link/6ab0d1be6a29601cdfc490f3
+- v4 图表链接（2026-09-21 v4重画）：https://www.processon.com/view/link/6ab0e94c7783ce2a62bfa9fa
 - 图中应包含：
   - 顶层定位：Agent-Native 框架（一个 action = UI + Agent + HTTP + MCP + A2A + CLI）
   - 中层：核心抽象（defineAction）、Agent engine/run-loop、Dispatch/agent teams、Automations、Auth/permissions、Chat UI

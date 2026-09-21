@@ -192,8 +192,8 @@ skills/security-audit/
 ## 5. ProcessOn 全景图信息
 
 - 文件夹名称：security-audit-skill
-- 图表标题：cloudflare/security-audit-skill 结构性全景图
-- 图表链接：https://www.processon.com/view/link/6ab0d1b7c6646636dfd87099
+- 图表标题：cloudflare/security-audit-skill 结构性全景图 v4
+- 图表链接：https://www.processon.com/view/link/6ab0e8da1a8a2243131ab44c （v4：13节点/14连线/4分组，techblue，auto_layout）
 - 图中应包含：6 阶段流水线（Recon→Hunting→Validation→Structured→Record Verif→Report）、13 个攻击类文件、2 个零依赖校验器、report-schema.json、沙箱外部依赖
 
 ## 6. 幕布文档信息

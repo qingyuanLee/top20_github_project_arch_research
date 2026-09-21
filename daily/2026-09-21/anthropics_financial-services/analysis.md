@@ -228,6 +228,7 @@ Managed Agent 部署路径额外多一层：`deploy-managed-agent.sh` 解析 fil
 - 文件夹名称：`anthropics-financial-services`
 - 图表标题：`anthropics/financial-services 结构性全景图`
 - 图表链接：https://www.processon.com/view/link/6ab0d04d6a29601cdfc48da4
+- v4 图表链接（2026-09-21 v4重画）：https://www.processon.com/view/link/6ab0e8d7aa338a4e8a9847ed
 - 图中应包含：
   - 顶层定位：Anthropic FSI 参考实现（10 agents + 6 verticals + 12 MCP）
   - 中层：5 大 FSI 垂直（IB / ER / PE / fund-admin / ops）+ 财富顾问 + partner-built

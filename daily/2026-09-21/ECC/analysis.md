@@ -202,8 +202,8 @@ Agent 工作时:
 ## 5. ProcessOn 全景图信息
 
 - 文件夹名称：ECC
-- 图表标题：affaan-m/ECC 结构性全景图
-- 图表链接：https://www.processon.com/view/link/6ab0d1c36a54b67d4fabe497
+- 图表标题：affaan-m/ECC 结构性全景图 v4
+- 图表链接：https://www.processon.com/view/link/6ab0e95767be235e10933615 （v4：10节点/12连线/4分组，techblue，auto_layout）
 - 图中应包含：7+ harness adapter 层、68 agents + 292 skills + 94 commands 三层能力、hook 运行时、AgentShield 安全扫描、npm/GitHub App 分发
 
 ## 6. 幕布文档信息

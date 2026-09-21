@@ -230,6 +230,7 @@ week8  Demo day：多栈 AI 加速全栈 web app
 - 文件夹名称：`modern-software-dev-assignments`
 - 图表标题：`mihail911/modern-software-dev-assignments 结构性全景图`
 - 图表链接：https://www.processon.com/view/link/6ab0d1126a29601cdfc48f88
+- v4 图表链接（2026-09-21 v4重画）：https://www.processon.com/view/link/6ab0e915926a46649d113ddd
 - 图中应包含：
   - 顶层定位：Stanford CS146S《The Modern Software Developer》8 周作业
   - 中层：8 周递进（week1 prompting → week2 FastAPI starter → week3 MCP server → week4-5 自治 agent → week6 Semgrep → week7 增强 starter → week8 demo）
