@@ -152,7 +152,8 @@ TL;DR：Vercel Labs 出的 Generative UI 框架——AI 只能在你定义的 ca
 - 文件夹名称：json-render
 - 图表标题：vercel-labs/json-render 结构性全景图
 - 图中应包含：顶层（Generative UI 框架：护栏化 AI 出 UI）；中层（defineCatalog/Zod schema / SpecStream 流式编译 / Renderer 调度 / StateStore+watchers）；底层（core 包、12+ 渲染器（React/Vue/Svelte/Solid/RN/Next/PDF/Email/Video/Ink/3D/Image）、状态适配器（Redux/Zustand/Jotai/XState）、MCP、Zod、Radix+Tailwind）。
-- 图表链接(v4)：https://www.processon.com/view/link/6ab0e9566a54b67d4fac2132
+- 图表链接(v4)：https://www.processon.com/view/link/6ab0efdcaa338a4e8a985947
+- 图表链接(v5)：https://www.processon.com/view/link/6ab0efdcaa338a4e8a985947
 
 ## 6. 幕布文档信息
 

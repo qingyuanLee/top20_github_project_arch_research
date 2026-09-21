@@ -30,19 +30,19 @@
     - [ ] #12 BuilderIO/agent-native — 98 today / 5,409 total — TypeScript — Agentic app 框架
     - [ ] #13 paperless-ngx/paperless-ngx — 57 today / 45,682 total — Python — 文档管理系统
 - [ ] 三、ProcessOn 全景图链接（13 张 v3）
-  - [ ] 1. security-audit-skill — https://www.processon.com/view/link/6ab0e8da1a8a2243131ab44c
-  - [ ] 2. cua — https://www.processon.com/view/link/6ab0e91d23868a0bc6a15b32
-  - [ ] 3. ECC — https://www.processon.com/view/link/6ab0e95767be235e10933615
-  - [ ] 4. OpenStock — https://www.processon.com/view/link/6ab0e992c66afe02ff7bc334
-  - [ ] 5. agent-skills — https://www.processon.com/view/link/6ab0e9d023868a0bc6a15d00
-  - [ ] 6. higgsfield — https://www.processon.com/view/link/6ab0e8cb9e63607e80029aa7
-  - [ ] 7. claude-code — https://www.processon.com/view/link/6ab0e8fcc8280d5a5b22df80
-  - [ ] 8. coder — https://www.processon.com/view/link/6ab0e92923868a0bc6a15b53
-  - [ ] 9. json-render — https://www.processon.com/view/link/6ab0e9566a54b67d4fac2132
-  - [ ] 10. financial-services — https://www.processon.com/view/link/6ab0e8d7aa338a4e8a9847ed
-  - [ ] 11. modern-software-dev-assignments — https://www.processon.com/view/link/6ab0e915926a46649d113ddd
-  - [ ] 12. agent-native — https://www.processon.com/view/link/6ab0e94c7783ce2a62bfa9fa
-  - [ ] 13. paperless-ngx — https://www.processon.com/view/link/6ab0e984c6646636dfd8ac2b
+  - [ ] 1. security-audit-skill — https://www.processon.com/view/link/6ab0efb26a29601cdfc4dd48
+  - [ ] 2. cua — https://www.processon.com/view/link/6ab0efee6a54b67d4fac3182
+  - [ ] 3. ECC — https://www.processon.com/view/link/6ab0f02dc8280d5a5b22f198
+  - [ ] 4. OpenStock — https://www.processon.com/view/link/6ab0f067c8280d5a5b22f21e
+  - [ ] 5. agent-skills — https://www.processon.com/view/link/6ab0f09ecb92f406f7f3b464
+  - [ ] 6. higgsfield — https://www.processon.com/view/link/6ab0ef5e6a54b67d4fac301f
+  - [ ] 7. claude-code — https://www.processon.com/view/link/6ab0ef89c6646636dfd8baf2
+  - [ ] 8. coder — https://www.processon.com/view/link/6ab0efb123868a0bc6a16bff
+  - [ ] 9. json-render — https://www.processon.com/view/link/6ab0efdcaa338a4e8a985947
+  - [ ] 10. financial-services — https://www.processon.com/view/link/6ab0ef8f7783ce2a62bfb9bc
+  - [ ] 11. modern-software-dev-assignments — https://www.processon.com/view/link/6ab0efdc926a46649d114ea0
+  - [ ] 12. agent-native — https://www.processon.com/view/link/6ab0f01e1a8a2243131ac67d
+  - [ ] 13. paperless-ngx — https://www.processon.com/view/link/6ab0f06523868a0bc6a16db2
 - [ ] 四、幕布大纲文档（13 篇）
   - [ ] 1. security-audit-skill — 7qgLzq234Oc
   - [ ] 2. cua — 35JvNIaMdOc

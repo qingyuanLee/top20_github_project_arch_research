@@ -240,7 +240,8 @@ paperless-ngx/
 - 文件夹名称：`paperless-ngx`
 - 图表标题：`paperless-ngx 结构性全景图`
 - 图表链接：https://www.processon.com/view/link/6ab0d25dc8280d5a5b22a4ce
-- v4 图表链接（2026-09-21 v4重画）：https://www.processon.com/view/link/6ab0e984c6646636dfd8ac2b
+- v4 图表链接（2026-09-21 v4重画）：https://www.processon.com/view/link/6ab0f06523868a0bc6a16db2
+- v5 图表链接（2026-09-21 v5重画，路由避让优化）：https://www.processon.com/view/link/6ab0f06523868a0bc6a16db2
 - 图中应包含：
   - 顶层定位：Paperless-ngx 数字文档归档系统
   - 中层：入库管线（consumer → converter → parser → classifier → search）+ 邮件抓取 + AI 模块（embedding/vector/chat）

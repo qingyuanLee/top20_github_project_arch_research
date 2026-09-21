@@ -150,7 +150,8 @@ TL;DR：自托管的云开发环境 + AI Agent 控制面——workspace 用 Terr
 
 - 文件夹名称：coder
 - 图表标题：coder/coder 结构性全景图
-- 图表链接(v4)：https://www.processon.com/view/link/6ab0e92923868a0bc6a15b53
+- 图表链接(v4)：https://www.processon.com/view/link/6ab0efb123868a0bc6a16bff
+- 图表链接(v5)：https://www.processon.com/view/link/6ab0efb123868a0bc6a16bff
 - 图中应包含：顶层（自托管 DevEnvs + AI Agents 安全平台）；中层（coderd 控制面 / provisionerd Terraform / agent / aibridge / tailnet 隧道）；底层（Go 1.26、PostgreSQL、Wireguard/Tailscale fork、Terraform、EC2/K8s/Docker、React 前端、OpenSSF 合规）。
 
 ## 6. 幕布文档信息

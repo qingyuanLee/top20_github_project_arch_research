@@ -198,8 +198,9 @@ CUA-S1 小模型（forms 决策）── 只打分不生成 token，执行交给
 ## 5. ProcessOn 全景图信息
 
 - 文件夹名称：cua
-- 图表标题：trycua/cua 结构性全景图 v4
-- 图表链接：https://www.processon.com/view/link/6ab0e91d23868a0bc6a15b32 （v4：11节点/12连线/4分组，techblue，auto_layout）
+- 图表标题：trycua/cua 结构性全景图 v5
+- 图表链接：https://www.processon.com/view/link/6ab0efee6a54b67d4fac3182 （v5：12节点/13连线/4分组，techblue，auto_layout，连线路由避让：主链路solid蓝#2563eb/辅助dashed/反馈dot/跨层broken折线）
+- 旧v4链接：https://www.processon.com/view/link/6ab0efee6a54b67d4fac3182
 - 图中应包含：5 大产品（Fleets/Driver/CUA-S1/Lume/Bench）、跨语言 monorepo 组件（Rust/Python/TS/Swift）、Sandbox SDK 共用层、外部依赖（Kasm/OmniParser/Playwright/HF）
 
 ## 6. 幕布文档信息

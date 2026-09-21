@@ -214,8 +214,9 @@ plugin.json             # 根 plugin manifest
 ## 5. ProcessOn 全景图信息
 
 - 文件夹名称：agent-skills
-- 图表标题：addyosmani/agent-skills 结构性全景图 v4
-- 图表链接：https://www.processon.com/view/link/6ab0e9d023868a0bc6a15d00 （v4：12节点/13连线/4分组，techblue，auto_layout）
+- 图表标题：addyosmani/agent-skills 结构性全景图 v5
+- 图表链接：https://www.processon.com/view/link/6ab0f09ecb92f406f7f3b464 （v5：11节点/11连线/4分组，techblue，auto_layout，连线路由避让：主链路solid蓝#2563eb/辅助dashed/反馈dot/跨层broken折线）
+- 旧v4链接：https://www.processon.com/view/link/6ab0f09ecb92f406f7f3b464
 - 图中应包含：6 阶段 lifecycle（define/plan/build/verify/review/ship）+ 25 skill 分布、4 persona、7 reference checklist、多 host adapter 层、evals 体系
 
 ## 6. 幕布文档信息

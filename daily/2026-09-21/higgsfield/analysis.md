@@ -144,7 +144,8 @@ TL;DR：把多机 GPU 训练从"600 个训练参数 + yaml 玄学 + SSH 手搓"�
 
 - 文件夹名称：higgsfield
 - 图表标题：higgsfield-ai/higgsfield 结构性全景图
-- 图表链接(v4)：https://www.processon.com/view/link/6ab0e8cb9e63607e80029aa7
+- 图表链接(v4)：https://www.processon.com/view/link/6ab0ef5e6a54b67d4fac301f
+- 图表链接(v5)：https://www.processon.com/view/link/6ab0ef5e6a54b67d4fac301f
 - 图中应包含：顶层定位（容错 GPU 编排 + 万亿参数 ML 框架）；中层（实验定义层 / 模型封装层 / 调度队列层 / GitHub CI 层）；底层（PyTorch+DeepSpeed ZeRO-3 / FSDP、Docker、SSH、Ubuntu 节点、Azure/LambdaLabs/FluidStack、PyPI）。
 
 ## 6. 幕布文档信息
