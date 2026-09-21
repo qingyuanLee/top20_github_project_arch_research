@@ -2,36 +2,36 @@
 
 - [x] 当前状态：20/20 项目分析完成，v2 图已重画，记录于 2026-09-18
 - [ ] 0. 怎么用这份归档
-  - [ ] 下一步：打开 v2 全景图 https://www.processon.com/view/link/6aacf896aa338a4e8a92cdcb 看 build-your-own-x（约1分钟）
+  - [ ] 下一步：打开 v2 全景图 https://www.processon.com/view/link/6ab0f6dc23868a0bc6a17d27 看 build-your-own-x（约1分钟）
   - [ ] 查找路径：名单与 stars → 一、数据快照；结论与优越点 → 二、核心发现；交付物与链接 → 三、交付物清单
   - [ ] 时间预算：读完全文约8分钟
 - [ ] 一、数据快照
   - [ ] 1. 一句话结论：20 个项目全部跑完分析，stars 取自 top20_raw.json 实抓值，5 个项目 star 增速异常需打折看
   - [ ] 2. Top20 名单（按 stars 降序，分4组每组5项；stars 为 raw.json 实抓数）
     - [ ] 第1组（#1–#5）
-      - [ ] #1 codecrafters-io/build-your-own-x — 547,925★ — A类·学习路径 — v2图 https://www.processon.com/view/link/6aacf896aa338a4e8a92cdcb — 幕布 n6l_jfcFHc
-      - [ ] #2 sindresorhus/awesome — 507,211★ — A类·资源导航 — v2图 https://www.processon.com/view/link/6aacf8c77783ce2a62ba1a70 — 幕布 2z3PtJY2eHc
-      - [ ] #3 public-apis/public-apis — 481,252★ — A类·资源导航 — v2图 https://www.processon.com/view/link/6aacf8e8c6646636dfd32720 — 幕布 3Zp8TWXH3Hc
-      - [ ] #4 freeCodeCamp/freeCodeCamp — 455,699★ — B类·代码架构 — v2图 https://www.processon.com/view/link/6aacf91cc6646636dfd327b9 — 幕布 yJBub8OtHc
-      - [ ] #5 EbookFoundation/free-programming-books — 397,066★ — A类·学习路径 — v2图 https://www.processon.com/view/link/6aacf939c0bae4107ed3727e — 幕布 78ScQ57V2Hc
+      - [ ] #1 codecrafters-io/build-your-own-x — 547,925★ — A类·学习路径 — v2图 https://www.processon.com/view/link/6ab0f6dc23868a0bc6a17d27 — 幕布 n6l_jfcFHc
+      - [ ] #2 sindresorhus/awesome — 507,211★ — A类·资源导航 — v2图 https://www.processon.com/view/link/6ab0f716c66afe02ff7be534 — 幕布 2z3PtJY2eHc
+      - [ ] #3 public-apis/public-apis — 481,252★ — A类·资源导航 — v2图 https://www.processon.com/view/link/6ab0f748c8280d5a5b2302d1 — 幕布 3Zp8TWXH3Hc
+      - [ ] #4 freeCodeCamp/freeCodeCamp — 455,699★ — B类·代码架构 — v2图 https://www.processon.com/view/link/6ab0f79e7783ce2a62bfcdbc — 幕布 yJBub8OtHc
+      - [ ] #5 EbookFoundation/free-programming-books — 397,066★ — A类·学习路径 — v2图 https://www.processon.com/view/link/6ab0f7d2cb92f406f7f3c626 — 幕布 78ScQ57V2Hc
     - [ ] 第2组（#6–#10）
-      - [ ] #6 openclaw/openclaw ⚠️ — 390,020★ — B类·代码架构 — v2图 https://www.processon.com/view/link/6aacf8d867be235e108db7f1 — 幕布 hJ4sTw3DHc
-      - [ ] #7 donnemartin/system-design-primer — 370,545★ — A类·系统设计 — v2图 https://www.processon.com/view/link/6aacf8ff926a46649d0bc028 — 幕布 7JeHv8FQHc
-      - [ ] #8 nilbuild/developer-roadmap — 367,556★ — B类·代码架构 — v2图 https://www.processon.com/view/link/6aacf9279e63607e80fd1d13 — 幕布 3bvFT386tHc
-      - [ ] #9 jwasham/coding-interview-university — 361,119★ — A类·学习路径 — v2图 https://www.processon.com/view/link/6aacf94c926a46649d0bc0cc — 幕布 4SQR5ItZGHc
-      - [ ] #10 vinta/awesome-python — 321,362★ — A类·资源导航 — v2图 https://www.processon.com/view/link/6aacf982926a46649d0bc132 — 幕布 2OYFVOCmUHc
+      - [ ] #6 openclaw/openclaw ⚠️ — 390,020★ — B类·代码架构 — v2图 https://www.processon.com/view/link/6ab0f77e6a29601cdfc4f15c — 幕布 hJ4sTw3DHc
+      - [ ] #7 donnemartin/system-design-primer — 370,545★ — A类·系统设计 — v2图 https://www.processon.com/view/link/6ab0f7c89e63607e8002bfa8 — 幕布 7JeHv8FQHc
+      - [ ] #8 nilbuild/developer-roadmap — 367,556★ — B类·代码架构 — v2图 https://www.processon.com/view/link/6ab0f80fc6646636dfd8d008 — 幕布 3bvFT386tHc
+      - [ ] #9 jwasham/coding-interview-university — 361,119★ — A类·学习路径 — v2图 https://www.processon.com/view/link/6ab0f852c8280d5a5b23057f — 幕布 4SQR5ItZGHc
+      - [ ] #10 vinta/awesome-python — 321,362★ — A类·资源导航 — v2图 https://www.processon.com/view/link/6ab0f89523868a0bc6a181dc — 幕布 2OYFVOCmUHc
     - [ ] 第3组（#11–#15）
-      - [ ] #11 awesome-selfhosted/awesome-selfhosted — 319,966★ — A类·资源导航 — v2图 https://www.processon.com/view/link/6aacf8f56a54b67d4fa69a9b — 幕布 6FdEwMQWHrc
-      - [ ] #12 obra/superpowers ⚠️ — 288,176★ — B类·代码架构 — v2图 https://www.processon.com/view/link/6aacf923c6646636dfd327c2 — 幕布 16CqznE51Hc
-      - [ ] #13 practical-tutorials/project-based-learning — 283,691★ — A类·学习路径 — v2图 https://www.processon.com/view/link/6aacf9697783ce2a62ba1bcd — 幕布 4VtdfaAsIHc
-      - [ ] #14 996icu/996.ICU — 277,142★ — A类·社会运动 — v2图 https://www.processon.com/view/link/6aacf9bf6a29601cdfbf4255 — 幕布 7Nd3-xqIlHc
-      - [ ] #15 mattpocock/skills ⚠️ — 264,588★ — B类·代码架构 — v2图 https://www.processon.com/view/link/6aacf9fbc6646636dfd329a3 — 幕布 2FaH7rCeiHc
+      - [ ] #11 awesome-selfhosted/awesome-selfhosted — 319,966★ — A类·资源导航 — v2图 https://www.processon.com/view/link/6ab0f6b623868a0bc6a17cd5 — 幕布 6FdEwMQWHrc
+      - [ ] #12 obra/superpowers ⚠️ — 288,176★ — B类·代码架构 — v2图 https://www.processon.com/view/link/6ab0f6fdc66afe02ff7be507 — 幕布 16CqznE51Hc
+      - [ ] #13 practical-tutorials/project-based-learning — 283,691★ — A类·学习路径 — v2图 https://www.processon.com/view/link/6ab0f744926a46649d11604e — 幕布 4VtdfaAsIHc
+      - [ ] #14 996icu/996.ICU — 277,142★ — A类·社会运动 — v2图 https://www.processon.com/view/link/6ab0f7846a29601cdfc4f164 — 幕布 7Nd3-xqIlHc
+      - [ ] #15 mattpocock/skills ⚠️ — 264,588★ — B类·代码架构 — v2图 https://www.processon.com/view/link/6ab0f7c17783ce2a62bfce24 — 幕布 2FaH7rCeiHc
     - [ ] 第4组（#16–#20）
-      - [ ] #16 affaan-m/ECC ⚠️ — 261,249★ — B类·代码架构 — v2图 https://www.processon.com/view/link/6aacf8fbcb92f406f7ee23d2 — 幕布 1lcxHUSeyHc
-      - [ ] #17 react/react — 250,550★ — B类·代码架构 — v2图 https://www.processon.com/view/link/6aacf92283f77758981f1e96 — 幕布 3DeFRRdvvHc
-      - [ ] #18 torvalds/linux — 249,359★ — B类·代码架构 — v2图 https://www.processon.com/view/link/6aacf94b7783ce2a62ba1b8b — 幕布 17MNJwrTQHc
-      - [ ] #19 NousResearch/hermes-agent ⚠️ — 246,594★ — B类·代码架构 — v2图 https://www.processon.com/view/link/6aacf97167be235e108db930 — 幕布 6YV3PcTVWHc
-      - [ ] #20 trimstray/the-book-of-secret-knowledge — 244,408★ — A类·学习路径 — v2图 https://www.processon.com/view/link/6aacf9969e63607e80fd1dea — 幕布 225hbjiRfHc
+      - [ ] #16 affaan-m/ECC ⚠️ — 261,249★ — B类·代码架构 — v2图 https://www.processon.com/view/link/6ab0f6d0aa338a4e8a986a36 — 幕布 1lcxHUSeyHc
+      - [ ] #17 react/react — 250,550★ — B类·代码架构 — v2图 https://www.processon.com/view/link/6ab0f72b7783ce2a62bfcc94 — 幕布 3DeFRRdvvHc
+      - [ ] #18 torvalds/linux — 249,359★ — B类·代码架构 — v2图 https://www.processon.com/view/link/6ab0f7627783ce2a62bfcd1c — 幕布 17MNJwrTQHc
+      - [ ] #19 NousResearch/hermes-agent ⚠️ — 246,594★ — B类·代码架构 — v2图 https://www.processon.com/view/link/6ab0f79e9e63607e8002bf46 — 幕布 6YV3PcTVWHc
+      - [ ] #20 trimstray/the-book-of-secret-knowledge — 244,408★ — A类·学习路径 — v2图 https://www.processon.com/view/link/6ab0f7d87783ce2a62bfce66 — 幕布 225hbjiRfHc
   - [ ] 3. 数据说明（5 个 star 异常项目，均为 API 真实返回、仓库真实存在，结论打折看）
     - [ ] #6 openclaw — 390,020★，描述模糊（"The lobster way"），TypeScript，AI Agent 框架
     - [ ] #12 superpowers — 288,176★，2025-10 创建，11 个月冲到 288k，Agent Skills 框架
@@ -66,4 +66,4 @@
     - [ ] 原始 API 数据：`C:\Users\18133\work\mcp\top20_research\top20_raw.json`（stars 取自此文件）
     - [ ] 本归档：`C:\Users\18133\work\mcp\top20_github_project_arch_research\2026-09-18-top20-arch-report.md`
 - [ ] 四、附：待办
-  - [ ] 下一步（2分钟）：点开一、2 第4组里 hermes-agent 的 v2 图 https://www.processon.com/view/link/6aacf97167be235e108db930 ，确认异常项目的架构图是否值得采信
+  - [ ] 下一步（2分钟）：点开一、2 第4组里 hermes-agent 的 v2 图 https://www.processon.com/view/link/6ab0f79e9e63607e8002bf46 ，确认异常项目的架构图是否值得采信
